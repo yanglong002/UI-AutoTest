@@ -1,0 +1,35 @@
+<!DOCTYPE html>  
+<html>  
+  <head>  
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+    <meta name="content-type" content="text/html; charset=UTF-8">  
+  
+    <title>communication box</title>  
+      
+    <script>  
+        function confirmDialog(){  
+            if(confirm("continue?")){  
+                alert("yes");  
+            }else{  
+                alert("no");  
+            }  
+        }  
+          
+        function promptDialog(){  
+            var name = prompt("what's your name?");  
+            alert("hello" + name);  
+        }  
+    </script>  
+  </head>  
+  
+<body>  
+  
+    dilog:  
+  
+    <div style="margin-top:50px">  
+        <input type="button" value="alert" onclick="alert('hello!')" />  
+        <input type="button" value="confirm" onclick="confirmDialog()" />  
+        <input type="button" value="prompt" onclick="promptDialog()" />  
+    </div>  
+</body>  
+</html> 

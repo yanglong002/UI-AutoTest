@@ -1,0 +1,28 @@
+2019-06-25 09:27:18,782	-	DEBUG	-	this is debug
+2019-06-25 09:27:18,784	-	ERROR	-	this is error
+2019-06-25 09:27:18,786	-	INFO	-	this is info
+2019-06-25 09:27:18,787	-	ERROR	-	this is error
+2019-06-25 10:12:49,669	-	DEBUG	-logUtil.py	-	this is debug
+2019-06-25 10:12:49,670	-	ERROR	-logUtil.py	-	this is error
+2019-06-25 10:12:49,671	-	INFO	-logUtil.py	-	this is info
+2019-06-25 10:12:49,673	-	ERROR	-logUtil.py	-	this is error
+2019-06-25 10:13:21,251	-	DEBUG	-	this is debug
+2019-06-25 10:13:21,252	-	ERROR	-	this is error
+2019-06-25 10:13:21,253	-	INFO	-	this is info
+2019-06-25 10:13:21,254	-	ERROR	-	this is error
+2019-06-25 10:17:37,755-DEBUG-this is debug
+2019-06-25 10:17:37,756-ERROR-this is error
+2019-06-25 10:17:37,757-INFO-this is info
+2019-06-25 10:17:37,758-ERROR-this is error
+2019-06-25 10:18:29,980-DEBUG-__logconsole-this is debug
+2019-06-25 10:18:29,982-ERROR-__logconsole-this is error
+2019-06-25 10:18:29,983-INFO-__logconsole-this is info
+2019-06-25 10:18:29,983-ERROR-__logconsole-this is error
+2019-06-25 10:18:47,832-DEBUG-this is debug
+2019-06-25 10:18:47,833-ERROR-this is error
+2019-06-25 10:18:47,834-INFO-this is info
+2019-06-25 10:18:47,835-ERROR-this is error
+2019-06-25 10:39:28,111-	DEBUG	-	this is debug
+2019-06-25 10:39:28,112-	ERROR	-	this is error
+2019-06-25 10:39:28,113-	INFO	-	this is info
+2019-06-25 10:39:28,115-	ERROR	-	this is error
